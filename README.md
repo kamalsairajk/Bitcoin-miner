@@ -2,8 +2,8 @@
 Mining bitcoins with a fixed number of leading 0's using SHA-256
 
 # Team Members
-1. Kamal Sai Raj Kuncha (UFID - 4854-8114)
-2. Akshay Ganapathy (UFID - 3684-6922)
+1. Kamal Sai Raj Kuncha 
+2. Akshay Ganapathy
 
 # Problem definition
 
